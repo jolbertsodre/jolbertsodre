@@ -1,4 +1,4 @@
-### Bem-vindo ao meu perfil! Me chamo Jolbert Sodré, futuro desenvolvedor Full-stack!
+### Hello there! Welcome to my profile, my name is Jolbert Sodré, a Full-stack Developer and a Cybersecurity Technician!
 ##
 
 <div align="center">
