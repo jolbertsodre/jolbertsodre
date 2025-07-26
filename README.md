@@ -1,5 +1,6 @@
-### Hello there!
-### Welcome to my profile, my name is Jolbert Sodré, a Full-stack Developer and a Cybersecurity Technician!
+### Hello, there! Welcome to my profile!
+### My name is Jolbert Sodré, a Full-stack Developer and a Cybersecurity Technician!
+
 ##
 
 <div align="center">
